@@ -1,0 +1,11 @@
+{
+  "name": "coastal-nowcasting",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Coastal nowcasting prototype app",
+  "main": "server.js",
+  "scripts": {
+    "build": "node --check server.js",
+    "test": "node --test"
+  }
+}
